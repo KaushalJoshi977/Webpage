@@ -1,0 +1,92 @@
+
+body{
+	margin:0;
+	font-size : 20px;
+	background-image: url('https://cdn.pixabay.com/photo/2019/02/27/18/23/india-4024661_960_720.jpg');
+	background-repeat: no-repeat;
+	background-size : cover;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+.nav-bar{
+	display:flex;
+	justify-content : right;
+	padding : 20px;
+	background-color : green;
+
+} 
+.nav-bar a{
+color: white;
+margin-left:30px;
+margin-right:20px;
+cursor:pointer;
+}
+.form-container{
+width:40%;
+height:20%;
+display: flex;
+background-color: #FBFACD;
+border-radius:30px;
+margin-left:700px;
+margin-top:50px;
+padding-top:80px;
+padding-left:70px; 
+padding-bottom:80px;
+opacity:0.8;
+}
+.form-container h3{ 
+	margin-left:20%;
+	text-align:center;
+	font-size: 30px;
+}
+.form-elements{
+font-size:30px;
+margin-left: 0%; 
+margin-top: 20px;
+margin-bottom:10px;
+border:2px;
+border-radius:30px;
+height:50px;
+}
+.form-label{ 
+	margin-left:10%;
+}
+.form-input{
+text-align:center; 
+background-color:#82CD47;
+width: 80%;
+ }
+.form-button{
+width: 80%;
+cursor:pointer;
+background-color: #5F9DF7; 
+}
+.about{
+font-family: Helvetica;
+width:100vx;
+height:80vh;
+padding-left:20px;
+opacity:0.8;
+background-color: #c0c0c0;
+}
+.about p{
+padding-top:40px; 
+font-weight: bold;
+}
+.about img{
+width:400px; height:350px;
+margin-right:10px;
+}
+.checkTable{
+background-color: #FFF7E9;
+height:87vh;
+display: flex;
+opacity:0.8;
+justify-content:center; align-items:center;
+}
+.checkTable img{
+height:80px; width:80px;
+}
+.checkTable td,th {
+	padding: 10px 60px;
+}

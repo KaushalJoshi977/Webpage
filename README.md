@@ -5,7 +5,7 @@ Created a Online voting system website on eclipse which include:-
 3. Check result
 4. Feedback page
 5. New voter register
-> Implemented concepts of DSA,HTML,SQL and CSS.
+> Implemented concepts of DSA,HTML,SQL and CSS. Created seprate tables in SQL for data storage.
 ![Web capture_12-2-2023_13350_localhost](https://user-images.githubusercontent.com/118073045/218298821-a1bf0ef5-c236-422c-9517-7710df00b7ba.jpeg)
 ![Web capture_12-2-2023_13333_localhost](https://user-images.githubusercontent.com/118073045/218298823-175915c5-d8c3-4925-938a-1e2ce5c237df.jpeg)
 ![Web capture_12-2-2023_13254_localhost](https://user-images.githubusercontent.com/118073045/218298824-91c47b7c-bc07-497b-84c4-8239799b090c.jpeg)
